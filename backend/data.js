@@ -80,7 +80,7 @@ const data = {
 			brand: "Nike",
 			rating: 4.5,
 			numReviews: 15,
-			description: "high quality product 5",
+			description: "Stylish women's T-shirt",
 		},
 	],
 };
